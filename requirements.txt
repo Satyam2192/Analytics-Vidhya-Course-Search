@@ -1,0 +1,13 @@
+pandas
+requests
+# BeautifulSoup
+bs4
+logging
+selenium
+langchain
+faiss-cpu
+sentence-transformers
+gradio
+python-dotenv
+langchain-community
+streamlit

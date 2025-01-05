@@ -1,0 +1,6 @@
+{
+  "last_updated": "2025-01-05T09:29:22.507789",
+  "created_by": "Satyam2192",
+  "num_documents": 72,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2"
+}
