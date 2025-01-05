@@ -59,7 +59,3 @@ python3 src/build_index.py
 # 3. Run the Streamlit app:
 streamlit run src/app.py
 ```
-
-## Search Features
-
-- **Semantic Search:** Find courses based on meaning,
